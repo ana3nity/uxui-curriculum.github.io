@@ -17,8 +17,8 @@ img {
   }
   
   .banner {
-    background-image: url("https://assets.codepen.io/6306176/jakes-meals.jpg");
-    background-repeat: repeat;
+    /* background-image: url("https://assets.codepen.io/6306176/jakes-meals.jpg"); */
+    background-image: repeat;
     max-width: 100%;
     height: 250px;
   }
