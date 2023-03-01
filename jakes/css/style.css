@@ -13,12 +13,14 @@ h1 {
 }
 
 img {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 .banner {
   background-image: url("https://assets.codepen.io/6306176/jakes-meals.jpg");
+  background-repeat: repeat-x;
   max-width: 100%;
+  height: 250px;
 }
 
 /* navbar was restyled to Flexbox */
@@ -55,7 +57,11 @@ picture {
 }
 
 .intro {
-  flex-basis: 50%;
+  flex-basis: 40%;
+}
+
+.dinner-photo {
+  max-width: 100%;
 }
 
 article {
