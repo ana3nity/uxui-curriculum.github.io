@@ -62,12 +62,6 @@ section {
     padding: 1rem;
 }
 
-picture {
-  <source srcset="jakes-eating-lg.jpg" media="(min-width: 992px)">
-  <source srcset="jakes-eating-md.jpg" media="(min-width: 768px)">
-  <img src="jakes-eating-sm.jpg" alt="Jake's Eatery Where Food is Fun!">
-}
-
 /* these are the red buttons at the bottom. We can restyle them just like a navbar. We used inline-block, but you could use Flexbox instead if you prefer */
 
 section ul {
