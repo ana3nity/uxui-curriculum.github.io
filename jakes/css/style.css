@@ -58,6 +58,10 @@ article {
     padding: 0 0.5rem;
 }
 
+.dinner-photo {
+  display: flex; 
+}
+
 section {
     padding: 1rem;
 }
