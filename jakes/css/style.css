@@ -12,12 +12,13 @@ h1 {
     text-align: center;
 }
 
-img {
+/* img {
     max-width: 100%;
-}
+} */
 
 .banner {
-  background: url("https://assets.codepen.io/6306176/jakes-meals.jpg") repeat-x;
+  background-image: url("https://assets.codepen.io/6306176/jakes-meals.jpg");
+  max-width: 100%;
 }
 
 /* navbar was restyled to Flexbox */
