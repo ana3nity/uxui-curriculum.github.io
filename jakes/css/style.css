@@ -17,8 +17,7 @@ img {
 }
 
 .banner {
-  max-width: 100%;
-  background: repeat;
+  background-repeat: repeat;
 }
 
 /* navbar was restyled to Flexbox */
