@@ -18,7 +18,6 @@ img {
 
 .banner {
   background: url("https://assets.codepen.io/6306176/jakes-meals.jpg") repeat;
-  height: 250px;
 }
 
 /* navbar was restyled to Flexbox */
@@ -55,7 +54,7 @@ picture {
 }
 
 .intro {
-  flex-basis: 40%;
+  flex-basis: 50%;
 }
 
 .dinner-photo {
