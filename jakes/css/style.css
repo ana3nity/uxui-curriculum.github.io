@@ -13,14 +13,15 @@ h1 {
 }
 
 img {
-  max-width: 100%;
-}
-
-.banner {
-  /* background-image: url("https://assets.codepen.io/6306176/jakes-meals.jpg"); */
-  background-repeat: repeat-x;
-  height: 250px;
-}
+    max-width: 100%;
+  }
+  
+  .banner {
+    background-image: url("https://assets.codepen.io/6306176/jakes-meals.jpg");
+    background-repeat: repeat-x;
+    max-width: 100%;
+    height: 250px;
+  }
 
 /* navbar was restyled to Flexbox */
 
