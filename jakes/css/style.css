@@ -16,6 +16,10 @@ img {
     max-width: 100%;
 }
 
+.banner {
+  max-width: 100%;
+  background: repeat;
+}
 
 /* navbar was restyled to Flexbox */
 
@@ -61,7 +65,6 @@ article {
 section {
     padding: 1rem;
 }
-
 
 /* these are the red buttons at the bottom. We can restyle them just like a navbar. We used inline-block, but you could use Flexbox instead if you prefer */
 
