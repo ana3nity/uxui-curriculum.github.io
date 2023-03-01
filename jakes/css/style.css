@@ -17,7 +17,7 @@ img {
 }
 
 picture {
-  max-width: 100%;
+  background: url("https://assets.codepen.io/6306176/jakes-meals.jpg") center;
 }
 
 /* navbar was restyled to Flexbox */
