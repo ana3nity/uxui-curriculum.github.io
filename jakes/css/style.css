@@ -168,4 +168,7 @@ footer a {
         /* turn off mobile settings */
         margin: 0;
     }
+    .intro-container {
+        text-align: center;
+    }
 }
